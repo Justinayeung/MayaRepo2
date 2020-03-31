@@ -1,0 +1,11 @@
+Lighting Preset;C:/Program Files/Autodesk/Mudbox 2020/Presets/lights/Afternoon;C:/Program Files/Autodesk/Mudbox 2020/Presets/lights/Afternoon/Preview.png;;;0;0
+Lighting Preset;C:/Program Files/Autodesk/Mudbox 2020/Presets/lights/Backlit;C:/Program Files/Autodesk/Mudbox 2020/Presets/lights/Backlit/Preview.png;;;0;0
+Lighting Preset;C:/Program Files/Autodesk/Mudbox 2020/Presets/lights/Chapel;C:/Program Files/Autodesk/Mudbox 2020/Presets/lights/Chapel/Preview.png;;;0;0
+Lighting Preset;C:/Program Files/Autodesk/Mudbox 2020/Presets/lights/Default;C:/Program Files/Autodesk/Mudbox 2020/Presets/lights/Default/Preview.png;;;0;0
+Lighting Preset;C:/Program Files/Autodesk/Mudbox 2020/Presets/lights/Evening;C:/Program Files/Autodesk/Mudbox 2020/Presets/lights/Evening/Preview.png;;;0;0
+Lighting Preset;C:/Program Files/Autodesk/Mudbox 2020/Presets/lights/Gallery;C:/Program Files/Autodesk/Mudbox 2020/Presets/lights/Gallery/Preview.png;;;0;0
+Lighting Preset;C:/Program Files/Autodesk/Mudbox 2020/Presets/lights/Late Afternoon;C:/Program Files/Autodesk/Mudbox 2020/Presets/lights/Late Afternoon/Preview.png;;;0;0
+Lighting Preset;C:/Program Files/Autodesk/Mudbox 2020/Presets/lights/Morning2;C:/Program Files/Autodesk/Mudbox 2020/Presets/lights/Morning2/Preview.png;;;0;0
+Lighting Preset;C:/Program Files/Autodesk/Mudbox 2020/Presets/lights/Overcast;C:/Program Files/Autodesk/Mudbox 2020/Presets/lights/Overcast/Preview.png;;;0;0
+Lighting Preset;C:/Program Files/Autodesk/Mudbox 2020/Presets/lights/Soft White;C:/Program Files/Autodesk/Mudbox 2020/Presets/lights/Soft White/Preview.png;;;0;0
+Lighting Preset;C:/Program Files/Autodesk/Mudbox 2020/Presets/lights/Thriller;C:/Program Files/Autodesk/Mudbox 2020/Presets/lights/Thriller/Preview.png;;;0;0

@@ -1,0 +1,1113 @@
+Memory: 6.9 GB/16 GB, 56%%
+Qt version: 5.6.1 (compiled against: 5.6.1)
+Loading plugins from:C:/Program Files/Autodesk/Mudbox 2020/plugins/
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/AmbientOcclusionSampler.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/AutoExtract.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/BTreePicker.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/BumpToNormal.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/CalliperBrush.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/CavityViewportFilter.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/CCSurfaceSmoother.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/CgMaterial.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/CgViewPortFilter.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/ColorCorrection.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/ColorTransfer.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/CurveCutting.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/Curves.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/CurveTransfer.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/DepthMapViewportFilter.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/DetailBrush.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/DetailTransfer.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/DiffuseMaterial.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/DOFViewPortFilter.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/DuplicateCommand.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/EdgeBleeding.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/EnvironmentMapLoader.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/ErasePaintLayer.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/ExportAllPaintLayers.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/EyeDropperBrush.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/FastBrush.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/FastMoveBrush.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/FbxTranslator.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/FlipCommand.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/FreezeTransformations.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/GeneralImage.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/GeodesicEnumerator.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/HWMeshRenderer.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/HWPicker.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/IBLMaterial.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/ImageBlur.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/LitSphereMaterial.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/MapExtractor.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/MapExtractorAPI.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/Marquee.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/MaskEditor.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/MBStandardMaterial.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/MeshBeautifier.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/MeshChecker.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/MeshDisplace.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/MeshGrid.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/MeshOperations.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/MeshReduce.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/MeshTriangulation.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/MudboxScriptRunner.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/MultiBrush.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/NormalMapViewportFilter.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/NPRViewPortFilter.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/ObjectSelectionBrush.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/OneClickExport.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/PaintSelectionBrush.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/PatchHole.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/Poser.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/PtexExtractor.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/PtexImporter.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/Retopology.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/RolloverHighlightingFilter.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/SceneLogger.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/SimpleShaderMaterial.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/SketchTopology.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/SpatialGrid.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/SSAOViewportFilter.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/SSSViewPortFilter.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/Substances.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/TangentGenerator.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/Texture.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/TextureLayers.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/TexturePaintBrush.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/TileablePlane.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/TileHistogram.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/TonemappingViewPortFilter.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/TopologyInterpolator.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/TransformationTools.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/Turntable.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/UnprojectTextures.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/Unsubdivide.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/Unwrapper.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/UVlessPainting.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/VDMCreator.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/VertexExtractor.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/VertexPaintBrush.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/VoxelBrush.mp
+Possible mesh renderer: HWRenderer
+Possible screen space picker: HWPicker
+Possible material: Simple Blinn Material
+Possible material: Mudbox Material
+Possible material: canvasmaterial
+Possible material: Lit Sphere Material
+Possible material: Mudbox Material (2009)
+Possible material: Mudbox Diffuse Material
+Possible material: viewcurvecanvasmaterial
+Possible material: CgFX Based Material
+Plugins in memory:
+	0: CgMaterial - Cg accelerated material, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:57:44
+	1: Map Extractor - Map Extraction between meshes, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:57:29
+	2: AOSampler - Ambient Occlusion Texture Generator, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:00:13
+	3: AutoExtract.mp - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	4: BTPicker - Balanced Tree Picker, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:51
+	5: Bump to Normal - Bump Map to Normal Map, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:21
+	6: CalliperBrush - CalliperBrush, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:00:07
+	7: Cavity - Cavity Viewport Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:23
+	8: CCSurfaceSmoother - Catmull-Clark Limit Surface Calculator, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:49
+	9: CgMaterial.mp - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	10: CgViewPortFilter - Cg based simple viewport filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:23
+	11: ColorCorrection - Color Correction, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:13
+	12: Edge Bleeding Utilities - Edge Bleeding Utilities, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:57:47
+	13: CurveCutting - cut the mesh using curves, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:00:38
+	14: CurveBuilder - Draw, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:55
+	15: MapExtractorAPI - Easy to use API for map extraction, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:57:39
+	16: Depth Map Filter - Depth Map Viewport Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:00:07
+	17: MeshTriangulation - Triangulate Meshe, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:40
+	18: MarqueeBrush - Draw, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:57:57
+	19: PaintSelectionBrush - PaintSelectionBrush, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:00:15
+	20: Poser - Rotating/scaling/moving vertices using bones, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:57:57
+	21: Mesh Detail Brush - Mesh detail brush, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:01:04
+	22: VertexExtractor - Extract values to vertex properties, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:00:28
+	23: UVlessPainting - PTEX Setup..., Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:57:50
+	24: MB Diffuse Material - Mudbox Diffuse Material, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:20
+	25: Depth of Field - Depth of Field Viewport Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:23
+	26: DuplicateCommand - Duplicate Command, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:00:36
+	27: EdgeBleeding.mp - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	28: EnvironmentMapLoader - Environment Map Loader, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:53
+	29: Erase Paint Layer - Erase the Paint Layer of Color, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:43
+	30: ExportPaintLayers - Export all paint layers, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:52
+	31: Eye Dropper Brush - Eye Dropper brush for picking color, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:02
+	32: Fast Brush - Hardware accelerated simple sculptor brush, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:01:05
+	33: FastMoveBrush - Fast version of the move tool, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:01:05
+	34: FBX Importer - FBX file import/export plugin, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:01:15
+	35: FlipCommand - Flip Command, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:00:31
+	36: FreezeTransformations - Flip Transformations, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:00:16
+	37: General Image - Basic Image Handler, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:01:41
+	38: GeodesicEnumerator.mp - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	39: HWRenderer - Hardware accelerated mesh renderer, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:00:18
+	40: HWPicker - Hardware accelerated mesh pick, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:45
+	41: IBL Material - Image Based Lighting, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:17
+ImageBlur: Plugin initialized
+	42: Image Blur - Blur Image Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:07
+	43: Lit Sphere Material - Lit Sphere NPR, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:25
+	44: MapExtractor.mp - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	45: MapExtractorAPI.mp - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	46: Marquee.mp - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	47: MaskEditor - Stencil/Stamp/Image plane editing functions, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:00:08
+	48: MB Standard Material - Mudbox Material, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:19
+	49: MeshBeautifier - beautify the mesh, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:01:02
+	50: Mesh Checker - Mech checker on import, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:58:53
+	51: MeshDisplacer - Displacement operation for meshes, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:01:47
+	52: MeshGrid - Preprocessed Face Count Reduction, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:42
+	53: MeshOperations - Mesh Operations, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:00:39
+	54: MeshReduce - Mesh Reduction, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:00:27
+	55: MeshTriangulation.mp - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	56: MudboxScriptRunner - The GUI plugin to run the specify Mudboxscript, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:04
+	57: MultiBrush - MultiBrush Tool, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:41
+	58: Normal Map Filter - Normal Map Viewport Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:54
+	59: Non Photorealistic Rendering - NPR Viewport Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:24
+	60: ObjectSelectionBrush - ObjectSelectionBrush, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:58:50
+	61: NewOneClick - One Click Interop with Maya / 3ds Max ., Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:32
+	62: PaintSelectionBrush.mp - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	63: PatchHole - Patch a Hole in a Mesh, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:00:57
+	64: Poser.mp - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	65: PtexExtractor.mp - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	66: PtexImporter.mp - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	67: Retopology - Create new topology for existing meshes, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:00:51
+	68: Rollover Highlighting Filter - Rollover Viewport Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:03
+	69: SceneLogger - Used for Interop, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:03
+	70: Basic Material - Simple Material, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:25
+	71: SketchTopology - Sketch Topology, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:00:18
+	72: MudboxSpatialGrid - Spatial Grid, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:42
+	73: Screen Space Ambient Occlusion - Screen Space Ambient Occlusion Viewport Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:53
+	74: Skin Effect Viewport Filter - Skin Effect Viewport Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:23
+	75: Substances - Supporting Substances as stams and stencils, Author: Allegorithmic, URL: http://www.allegorithmic.com, Build time: Nov 12 2019 10:59:52
+	76: TangentGenerator - Vertex Tangent and Binormal Generator, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:38
+	77: Texture - Default Texture Class Implementation, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:58:59
+	78: TileHistogram - TIB generator and Tile Histogram generator, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:58:51
+	79: TextureLayers - Layer Structure for TexturesCg accelerated material, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:11
+	80: Texture Paint Brush - Hardware accelerated texture paint brush, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:58:50
+	81: TilingPlane - Tiling plane for sculpting and painting, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:46
+	82: TileHistogram.mp - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	83: Tonemapper - Tonemapping Viewport Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:22
+	84: Map Extractor - InterCustom settings on Map Extaction, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:01:47
+	85: Transformation Tools - Transformation Tools, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:58:50
+	86: Turntable - Create a turntable animation, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:36
+UnprojectTextures: Plugin initialized
+	87: UnprojectTextures - Screen Space Texture Unprojection and Extraction, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:58:53
+	88: Unsubdivide - Rebuild subdivision levels, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:05
+	89: Unwrapper - Converter between UV and world space, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:42
+	90: UVlessPainting.mp - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	91: VDMCreator - Strong smooth operation on meshes, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:52
+	92: VertexExtractor.mp - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	93: Vertex Paint Brush - Vertex property paint brush, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:00:15
+	94: Voxel Brush - Voxel Based Sketching Tool, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:01
+SysInfo: Unable to open NVIDIA device key - The system cannot find the file specified.
+
+SysInfo: GL MemInfo (NVidia) reports 4194304 kbytes of GPU memory
+file ext string = *.png *.jpg *.gif *.bmp *.tif *.psd *.tga *.exr
+Using shader compile flags -DVERTEX_PROFILE=gp4vp -DFRAGMENT_PROFILE=gp4fp -DCG_PROFILE_GP4VP=1 -DCG_PROFILE_GP4FP=1
+Additional flags:
+Effect file Effects/MBStandardMaterial/MBStandardMaterial.bin loaded and compiled:
+Technique MBMaterial passed validation in effect Effects/MBStandardMaterial/MBStandardMaterial.binLoading program from file: Shaders/NPR/Blur.bin
+Loading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1
+Adding compile option : -DCG_PROFILE_GLSLF=1
+Cg Error compiling program. 
+Loading program from file: Shaders/NPR/EdgePostProcess.bin
+Loading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1
+Adding compile option : -DCG_PROFILE_GLSLF=1
+Loading program from file: Shaders/NPR/NPRPostProcess.bin
+Loading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1
+Adding compile option : -DCG_PROFILE_GLSLF=1
+Loading program from file: Shaders/NormalMapViewportFilter/NormalMapViewportFilter.bin
+Loading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1
+Adding compile option : -DCG_PROFILE_GLSLF=1
+Loading program from file: Shaders/DepthMapViewportFilter/DepthMapViewportFilter.bin
+Loading program source for the profile gp5fp, compiled with -DCG_PROFILE_GP5FP=1
+Adding compile option : -DCG_PROFILE_GP5FP=1
+Loading program from file: Shaders/SSAO/screen_space_AO.bin
+Loading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1
+Adding compile option : -DCG_PROFILE_GLSLF=1
+Loading program from file: Shaders/SSAO/screen_space_AO.bin
+Loading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1
+Adding compile option : -DCG_PROFILE_GLSLF=1
+Loading program from file: Shaders/SSAO/screen_space_AO.bin
+Loading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1
+Adding compile option : -DCG_PROFILE_GLSLF=1
+Loading program from file: Shaders/SSAO/screen_space_AO.bin
+Loading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1
+Adding compile option : -DCG_PROFILE_GLSLF=1
+Loading program from file: Shaders/Cavity/AO.bin
+Loading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1
+Adding compile option : -DCG_PROFILE_GLSLF=1
+Loading program from file: Shaders/DOF/DOF.bin
+Loading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1
+Adding compile option : -DCG_PROFILE_GLSLF=1
+Loading program from file: Shaders/DOF/Blur.bin
+Loading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1
+Adding compile option : -DCG_PROFILE_GLSLF=1
+Loading program from file: Shaders/Tonemapping/RGBToLuminance.bin
+Loading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1
+Adding compile option : -DCG_PROFILE_GLSLF=1
+Loading program from file: Shaders/Tonemapping/MinMax.bin
+Loading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1
+Adding compile option : -DCG_PROFILE_GLSLF=1
+Loading program from file: Shaders/Tonemapping/Downscale.bin
+Loading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1
+Adding compile option : -DCG_PROFILE_GLSLF=1
+Loading program from file: Shaders/Tonemapping/Gamma.bin
+Loading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1
+Adding compile option : -DCG_PROFILE_GLSLF=1
+Sculpt[Sculpt] brush selected
+Stamp set to OFF
+Brush initialized
+Creating IPM
+ Loading preferences
+Autodesk Mudbox 2020, 64 bit
+Loading program from file: Shaders/TileIDVertex.bin
+Loading program source for the profile glslv, compiled with -DCG_PROFILE_GLSLV=1
+Adding compile option : -DCG_PROFILE_GLSLV=1
+Loading program from file: Shaders/TileIDFragment.bin
+Loading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1
+Adding compile option : -DCG_PROFILE_GLSLF=1
+C:/Program Files/Autodesk/Mudbox 2020/Meshes/Basic Head.mud: Current stream version is 506, file is 402
+C:/Program Files/Autodesk/Mudbox 2020/Meshes/Bull.mud: Current stream version is 506, file is 402
+C:/Program Files/Autodesk/Mudbox 2020/Meshes/Car.mud: Current stream version is 506, file is 505
+C:/Program Files/Autodesk/Mudbox 2020/Meshes/Cube.mud: Current stream version is 506, file is 402
+C:/Program Files/Autodesk/Mudbox 2020/Meshes/Human Body.mud: Current stream version is 506, file is 505
+C:/Program Files/Autodesk/Mudbox 2020/Meshes/Plane.mud: Current stream version is 506, file is 403
+C:/Program Files/Autodesk/Mudbox 2020/Meshes/Reptile.mud: Current stream version is 506, file is 402
+C:/Program Files/Autodesk/Mudbox 2020/Meshes/Sphere.mud: Current stream version is 506, file is 402
+C:/Program Files/Autodesk/Mudbox 2020/Meshes/T Rex.mud: Current stream version is 506, file is 403
+C:/Program Files/Autodesk/Mudbox 2020/Meshes/Tree Stump.mud: Current stream version is 506, file is 402
+Fbx Import plugin initialized. Fbx SDK Version 7.7.0
+file ext string = *.png *.jpg *.gif *.bmp *.tif *.psd *.tga *.exr
+Using shader compile flags -DVERTEX_PROFILE=gp4vp -DFRAGMENT_PROFILE=gp4fp -DCG_PROFILE_GP4VP=1 -DCG_PROFILE_GP4FP=1
+Additional flags:
+Effect file Effects/MBStandardMaterial/MBStandardMaterial.bin loaded and compiled:
+Technique MBMaterial passed validation in effect Effects/MBStandardMaterial/MBStandardMaterial.binImporting file D:/Maya2/Character/scenes/Eyes.fbx
+Fbx Import plugin initialized. Fbx SDK Version 7.7.0
+file ext string = *.png *.jpg *.gif *.bmp *.tif *.psd *.tga *.exr
+Using shader compile flags -DVERTEX_PROFILE=gp4vp -DFRAGMENT_PROFILE=gp4fp -DCG_PROFILE_GP4VP=1 -DCG_PROFILE_GP4FP=1
+Additional flags:
+Cg Error compiling Effects/MBStandardMaterial/MBStandardMaterial.bin
+Effect file Effects/MBStandardMaterial/MBStandardMaterial.bin loaded and compiled:
+Technique MBMaterial passed validation in effect Effects/MBStandardMaterial/MBStandardMaterial.binBuilding adjacency. Number of open edges: 0
+Building adjacency. Number of open edges: 0
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+Autodesk Mudbox 2020, 64 bit
+=================== FBX import started =================FBX version number for file D:/Maya2/Character/scenes/Eyes.fbx is 7.7.0
+Starting import of QuickRigCharacter_HipsStarting import of Finished import of Starting import of Finished import of Starting import of Finished import of Starting import of Finished import of Starting import of Finished import of Starting import of Finished import of Starting import of Finished import of Starting import of Finished import of Starting import of Finished import of Finished import of QuickRigCharacter_HipsStarting import of EyeRStarting import of Finished import of Starting import of Skin Deformer  has more than 4 influences for some vertices. Mudbox only supports up to 4 joint influences per vertex. Only the 4 strongest influences will be imported into the Mudbox skeleton. Some parts of the mesh may not deform correctly.Finished import of Starting import of lambert2Using Mudbox material class Mudbox MaterialSetting lambertian parametersImporting textures...Importing textures for Incandescence channel (channel 3)No textures found for Incandescence channel (channel 3)Importing textures for Diffuse channel (channel 0)No textures found for Diffuse channel (channel 0)Importing textures for Bump Map channel (channel 6)No textures found for Bump Map channel (channel 6)Importing textures for Normal Map channel (channel 7)No textures found for Normal Map channel (channel 7)Importing textures for Opacity channel (channel 4)No textures found for Opacity channel (channel 4)Importing textures for Vector Displacement Map channel (channel 5)No textures found for Vector Displacement Map channel (channel 5)Finished import of lambert2Finished import of EyeRStarting import of EyeLStarting import of Finished import of Starting import of Skin Deformer  has more than 4 influences for some vertices. Mudbox only supports up to 4 joint influences per vertex. Only the 4 strongest influences will be imported into the Mudbox skeleton. Some parts of the mesh may not deform correctly.Finished import of Finished import of EyeL=================== FBX import complete ===================Loading program from file: Shaders/PickerVertex.bin
+Loading program source for the profile glslv, compiled with -DCG_PROFILE_GLSLV=1
+Adding compile option : -DCG_PROFILE_GLSLV=1
+Cg Error compiling program. 
+Loading program from file: Shaders/PickerMatrixSkinnedVertex.bin
+Loading program source for the profile glslv, compiled with -DCG_PROFILE_GLSLV=1
+Adding compile option : -DCG_PROFILE_GLSLV=1
+Loading program from file: Shaders/PickerDualQuaternionSkinnedVertex.bin
+Loading program source for the profile glslv, compiled with -DCG_PROFILE_GLSLV=1
+Adding compile option : -DCG_PROFILE_GLSLV=1
+Using shader compile flags -DVERTEX_PROFILE=gp4vp -DFRAGMENT_PROFILE=gp4fp -DCG_PROFILE_GP4VP=1 -DCG_PROFILE_GP4FP=1
+Additional flags:
+Effect file Effects/MBStandardMaterial/MBStandardMaterial.bin loaded and compiled:
+Technique MBMaterial passed validation in effect Effects/MBStandardMaterial/MBStandardMaterial.binCombinedLayerDialog::OnNewLayerPaint
+
+PaintLayerPropertiesDialog: Expose 8K Textures? Video Memory = 4096Meg, Expose8K = 1
+file ext string = PNG [8 bit, RGBA]  *.png;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+Insert new layer
+Select layer
+Loading program source for the profile gp5fp, compiled with -DCG_PROFILE_GP5FP=1
+Adding compile option : -DCG_PROFILE_GP5FP=1
+Loading program source for the profile gp5vp, compiled with -DCG_PROFILE_GP5VP=1
+Adding compile option : -DCG_PROFILE_GP5VP=1
+Loading program source for the profile gp5fp, compiled with -DCG_PROFILE_GP5FP=1
+Adding compile option : -DCG_PROFILE_GP5FP=1
+Loading program source for the profile gp5vp, compiled with -DCG_PROFILE_GP5VP=1
+Adding compile option : -DCG_PROFILE_GP5VP=1
+Paint Brush[Paint Brush] brush selected
+Loading program from file: Shaders/TexturePaint/mask.bin
+Loading program source for the profile gp5vp, compiled with -DCG_PROFILE_GP5VP=1
+Adding compile option : -DCG_PROFILE_GP5VP=1
+Loading program from file: Shaders/TexturePaint/mask.bin
+Loading program source for the profile gp5fp, compiled with -DCG_PROFILE_GP5FP=1
+Adding compile option : -DCG_PROFILE_GP5FP=1
+Loading program from file: Shaders/TexturePaint/blur.bin
+Loading program source for the profile gp5vp, compiled with -DCG_PROFILE_GP5VP=1
+Adding compile option : -DCG_PROFILE_GP5VP=1
+Loading program from file: Shaders/TexturePaint/blur.bin
+Loading program source for the profile gp5fp, compiled with -DCG_PROFILE_GP5FP=1
+Adding compile option : -DCG_PROFILE_GP5FP=1
+Loading program from file: Shaders/TexturePaint/blur.bin
+Loading program source for the profile gp5fp, compiled with -DCG_PROFILE_GP5FP=1
+Adding compile option : -DCG_PROFILE_GP5FP=1
+Flood
+TexturePaintBrush::Flood
+Undo
+Undoing TexturePaintBrush
+Undo
+Undoing TexturePaintBrush
+Undo
+Undoing TexturePaintBrush
+Undo
+Undoing TexturePaintBrush
+Undo
+Undoing TexturePaintBrush
+Undo
+Undoing TexturePaintBrush
+Undo
+Undoing TexturePaintBrush
+saving image: D:/Maya2/Character/scenes/Eyes_Mudbox-files/lambert2_Diffuse Background.png
+saving image: D:/Maya2/Character/scenes/Eyes_Mudbox-files/lambert2_Eyes.exr
+Saving to file D:/Maya2/Character/scenes/Eyes_Mudbox.mud, version 506
+File contents:
+0000: 0000237b(1 KiB) XScene
+0001: 0000299d(600 bytes) XTransformation
+0002: 00002bf5(402 bytes) XCamera
+0003: 00002d87(198 bytes) DirectionalLight
+0004: 00002e4d(600 bytes) XTransformation
+0005: 000030a5(95 bytes) Stencil
+0006: 00003104(600 bytes) XTransformation
+0007: 0000335c(394 bytes) XCamera
+0008: 000034e6(600 bytes) XTransformation
+0009: 0000373e(105 bytes) ImagePlane
+0010: 000037a7(600 bytes) XTransformation
+0011: 000039ff(1 KiB) MBStandardMaterial
+0012: 00003ec1(95 bytes) Stencil
+0013: 00003f20(395 bytes) XCamera
+0014: 000040ab(396 bytes) XCamera
+0015: 00004237(30 bytes) ReplayHandler::ConcreteHandler
+0016: 00004255(130 bytes) TextureChannel
+0017: 000042d7(133 bytes) TextureChannel
+0018: 0000435c(124 bytes) TextureChannel
+0019: 000043d8(148 bytes) TextureChannel
+0020: 0000446c(130 bytes) TextureChannel
+0021: 000044ee(178 bytes) TextureChannel
+0022: 000045a0(133 bytes) TextureChannel
+0023: 00004625(139 bytes) TextureChannel
+0024: 000046b0(154 bytes) TextureChannel
+0025: 0000474a(105 bytes) ImagePlane
+0026: 000047b3(95 bytes) Stencil
+0027: 00004812(95 bytes) Stencil
+0028: 00004871(1 KiB) MBStandardMaterial
+0029: 00004d73(144 bytes) TextureSet
+0030: 00004e03(145 bytes) TextureSet
+0031: 00004e94(142 bytes) TextureSet
+0032: 00004f22(150 bytes) TextureSet
+0033: 00004fb8(144 bytes) TextureSet
+0034: 00005048(160 bytes) TextureSet
+0035: 000050e8(145 bytes) TextureSet
+0036: 00005179(147 bytes) TextureSet
+0037: 0000520c(152 bytes) TextureSet
+0038: 000052a4(105 bytes) ImagePlane
+0039: 0000530d(105 bytes) ImagePlane
+0040: 00005376(30 bytes) TileData
+0041: 00005394(601 bytes) XTransformation
+0042: 000055ed(134 bytes) TextureChannel
+0043: 00005673(133 bytes) TextureChannel
+0044: 000056f8(124 bytes) TextureChannel
+0045: 00005774(148 bytes) TextureChannel
+0046: 00005808(130 bytes) TextureChannel
+0047: 0000588a(178 bytes) TextureChannel
+0048: 0000593c(133 bytes) TextureChannel
+0049: 000059c1(139 bytes) TextureChannel
+0050: 00005a4c(154 bytes) TextureChannel
+0051: 00005ae6(340 bytes) Skeleton
+0052: 00005c3a(600 bytes) XTransformation
+0053: 00005e92(207 bytes) TextureSet
+0054: 00005f61(179 bytes) TextureSet
+0055: 00006014(174 bytes) TextureSet
+0056: 000060c2(171 bytes) TextureSet
+0057: 0000616d(179 bytes) TextureSet
+0058: 00006220(173 bytes) TextureSet
+0059: 000062cd(189 bytes) TextureSet
+0060: 0000638a(174 bytes) TextureSet
+0061: 00006438(176 bytes) TextureSet
+0062: 000064e8(181 bytes) TextureSet
+0063: 0000659d(269 bytes) Bone
+0064: 000066aa(270 bytes) Bone
+0065: 000067b8(271 bytes) Bone
+0066: 000068c7(279 bytes) Bone
+0067: 000069de(281 bytes) Bone
+0068: 00006af7(282 bytes) Bone
+0069: 00006c11(277 bytes) Bone
+0070: 00006d26(278 bytes) Bone
+0071: 00006e3c(277 bytes) Bone
+0072: 00006f51(103 bytes) XGeometry
+0073: 00006fb8(103 bytes) XGeometry
+0074: 0000701f(11 KiB) XSubdivisionLevel
+0075: 00009fe3(600 bytes) XTransformation
+0076: 0000a23b(11 KiB) XSubdivisionLevel
+0077: 0000d1ff(5 KiB) MeshBoneData
+0078: 0000e6ad(306 bytes) SkeletonReference
+0079: 0000e7df(152 bytes) ExportAllPaintLayersNode
+0080: 0000e877(5 KiB) MeshBoneData
+0081: 0000fd25(306 bytes) SkeletonReference
+0082: 0000fe57(47 bytes) MudboxMeshGrid
+0083: 0000fe86(156 bytes) ExportAllPaintLayersNode
+0084: 0000ff22(47 bytes) MudboxMeshGrid
+0085: 0000ff51(56 bytes) HWRenderer
+0086: 0000ff89(56 bytes) HWRenderer
+0087: 0000ffc1(44 bytes) FreezeInterpolator
+0088: 0000ffed(44 bytes) FreezeInterpolator
+0089: 00010019(44 bytes) TCInterpolator
+0090: 00010045(44 bytes) TCInterpolator
+0091: 00010071(44 bytes) BoneDataInterpolator
+0092: 0001009d(44 bytes) BoneDataInterpolator
+Autodesk Mudbox 2020, 64 bit
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+Command: exportPaintLayer "D:/Maya2/Character/sourceimages/DiffuseEyeMap_PNG.png" "8,i"saving image: D:/Maya2/Character/sourceimages/DiffuseEyeMap_PNG.png
+CombinedLayerDialog::OnNewLayerPaint
+
+PaintLayerPropertiesDialog: Expose 8K Textures? Video Memory = 4096Meg, Expose8K = 1
+file ext string = PNG [8 bit, RGBA]  *.png;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+Insert new layer
+Select layer
+Flood
+TexturePaintBrush::Flood
+Flood
+TexturePaintBrush::Flood
+Undo
+Undoing TexturePaintBrush
+Undo
+Undoing TexturePaintBrush
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+Command: exportPaintLayer "D:/Maya2/Character/sourceimages/SpecularEyeMap_PNG.png" "8,i"saving image: D:/Maya2/Character/sourceimages/SpecularEyeMap_PNG.png
+saving image: D:/Maya2/Character/scenes/Eyes_Mudbox-files/lambert2_Specular Background.png
+saving image: D:/Maya2/Character/scenes/Eyes_Mudbox-files/lambert2_Eyes_Specular.exr
+Saving to file D:/Maya2/Character/scenes/Eyes_Mudbox.mud, version 506
+File contents:
+0000: 0000237b(1 KiB) XScene
+0001: 00002a3f(600 bytes) XTransformation
+0002: 00002c97(402 bytes) XCamera
+0003: 00002e29(198 bytes) DirectionalLight
+0004: 00002eef(600 bytes) XTransformation
+0005: 00003147(95 bytes) Stencil
+0006: 000031a6(600 bytes) XTransformation
+0007: 000033fe(394 bytes) XCamera
+0008: 00003588(600 bytes) XTransformation
+0009: 000037e0(105 bytes) ImagePlane
+0010: 00003849(600 bytes) XTransformation
+0011: 00003aa1(1 KiB) MBStandardMaterial
+0012: 00003f63(95 bytes) Stencil
+0013: 00003fc2(395 bytes) XCamera
+0014: 0000414d(396 bytes) XCamera
+0015: 000042d9(30 bytes) ReplayHandler::ConcreteHandler
+0016: 000042f7(130 bytes) TextureChannel
+0017: 00004379(133 bytes) TextureChannel
+0018: 000043fe(124 bytes) TextureChannel
+0019: 0000447a(148 bytes) TextureChannel
+0020: 0000450e(130 bytes) TextureChannel
+0021: 00004590(178 bytes) TextureChannel
+0022: 00004642(133 bytes) TextureChannel
+0023: 000046c7(139 bytes) TextureChannel
+0024: 00004752(154 bytes) TextureChannel
+0025: 000047ec(105 bytes) ImagePlane
+0026: 00004855(95 bytes) Stencil
+0027: 000048b4(95 bytes) Stencil
+0028: 00004913(1 KiB) MBStandardMaterial
+0029: 00004e08(144 bytes) TextureSet
+0030: 00004e98(145 bytes) TextureSet
+0031: 00004f29(142 bytes) TextureSet
+0032: 00004fb7(150 bytes) TextureSet
+0033: 0000504d(144 bytes) TextureSet
+0034: 000050dd(160 bytes) TextureSet
+0035: 0000517d(145 bytes) TextureSet
+0036: 0000520e(147 bytes) TextureSet
+0037: 000052a1(152 bytes) TextureSet
+0038: 00005339(105 bytes) ImagePlane
+0039: 000053a2(105 bytes) ImagePlane
+0040: 0000540b(30 bytes) TileData
+0041: 00005429(601 bytes) XTransformation
+0042: 00005682(134 bytes) TextureChannel
+0043: 00005708(137 bytes) TextureChannel
+0044: 00005791(124 bytes) TextureChannel
+0045: 0000580d(148 bytes) TextureChannel
+0046: 000058a1(130 bytes) TextureChannel
+0047: 00005923(178 bytes) TextureChannel
+0048: 000059d5(133 bytes) TextureChannel
+0049: 00005a5a(139 bytes) TextureChannel
+0050: 00005ae5(154 bytes) TextureChannel
+0051: 00005b7f(340 bytes) Skeleton
+0052: 00005cd3(600 bytes) XTransformation
+0053: 00005f2b(207 bytes) TextureSet
+0054: 00005ffa(265 bytes) TextureSet
+0055: 00006103(209 bytes) TextureSet
+0056: 000061d4(284 bytes) TextureSet
+0057: 000062f0(171 bytes) TextureSet
+0058: 0000639b(179 bytes) TextureSet
+0059: 0000644e(173 bytes) TextureSet
+0060: 000064fb(189 bytes) TextureSet
+0061: 000065b8(174 bytes) TextureSet
+0062: 00006666(176 bytes) TextureSet
+0063: 00006716(181 bytes) TextureSet
+0064: 000067cb(269 bytes) Bone
+0065: 000068d8(270 bytes) Bone
+0066: 000069e6(271 bytes) Bone
+0067: 00006af5(279 bytes) Bone
+0068: 00006c0c(281 bytes) Bone
+0069: 00006d25(282 bytes) Bone
+0070: 00006e3f(277 bytes) Bone
+0071: 00006f54(278 bytes) Bone
+0072: 0000706a(277 bytes) Bone
+0073: 0000717f(103 bytes) XGeometry
+0074: 000071e6(103 bytes) XGeometry
+0075: 0000724d(11 KiB) XSubdivisionLevel
+0076: 0000a211(600 bytes) XTransformation
+0077: 0000a469(11 KiB) XSubdivisionLevel
+0078: 0000d42d(5 KiB) MeshBoneData
+0079: 0000e8db(306 bytes) SkeletonReference
+0080: 0000ea0d(152 bytes) ExportAllPaintLayersNode
+0081: 0000eaa5(5 KiB) MeshBoneData
+0082: 0000ff53(306 bytes) SkeletonReference
+0083: 00010085(47 bytes) MudboxMeshGrid
+0084: 000100b4(156 bytes) ExportAllPaintLayersNode
+0085: 00010150(47 bytes) MudboxMeshGrid
+0086: 0001017f(56 bytes) HWRenderer
+0087: 000101b7(56 bytes) HWRenderer
+0088: 000101ef(44 bytes) FreezeInterpolator
+0089: 0001021b(44 bytes) FreezeInterpolator
+0090: 00010247(44 bytes) TCInterpolator
+0091: 00010273(44 bytes) TCInterpolator
+0092: 0001029f(44 bytes) BoneDataInterpolator
+0093: 000102cb(44 bytes) BoneDataInterpolator
+Autodesk Mudbox 2020, 64 bit
+Select layer
+Undo
+Undoing TexturePaintBrush
+Undo
+Undoing TexturePaintBrush
+Undo
+Undoing TexturePaintBrush
+Select layer
+saving image: D:/Maya2/Character/scenes/Eyes_Mudbox-files/lambert2_Eyes.exr
+saving image: D:/Maya2/Character/scenes/Eyes_Mudbox-files/lambert2_Eyes_Specular.exr
+Saving to file D:/Maya2/Character/scenes/Eyes_Mudbox.mud, version 506
+File contents:
+0000: 0000237b(1 KiB) XScene
+0001: 00002a4f(600 bytes) XTransformation
+0002: 00002ca7(402 bytes) XCamera
+0003: 00002e39(198 bytes) DirectionalLight
+0004: 00002eff(600 bytes) XTransformation
+0005: 00003157(95 bytes) Stencil
+0006: 000031b6(600 bytes) XTransformation
+0007: 0000340e(394 bytes) XCamera
+0008: 00003598(600 bytes) XTransformation
+0009: 000037f0(105 bytes) ImagePlane
+0010: 00003859(600 bytes) XTransformation
+0011: 00003ab1(1 KiB) MBStandardMaterial
+0012: 00003f73(95 bytes) Stencil
+0013: 00003fd2(395 bytes) XCamera
+0014: 0000415d(396 bytes) XCamera
+0015: 000042e9(30 bytes) ReplayHandler::ConcreteHandler
+0016: 00004307(130 bytes) TextureChannel
+0017: 00004389(133 bytes) TextureChannel
+0018: 0000440e(124 bytes) TextureChannel
+0019: 0000448a(148 bytes) TextureChannel
+0020: 0000451e(130 bytes) TextureChannel
+0021: 000045a0(178 bytes) TextureChannel
+0022: 00004652(133 bytes) TextureChannel
+0023: 000046d7(139 bytes) TextureChannel
+0024: 00004762(154 bytes) TextureChannel
+0025: 000047fc(105 bytes) ImagePlane
+0026: 00004865(95 bytes) Stencil
+0027: 000048c4(95 bytes) Stencil
+0028: 00004923(1 KiB) MBStandardMaterial
+0029: 00004e18(144 bytes) TextureSet
+0030: 00004ea8(145 bytes) TextureSet
+0031: 00004f39(142 bytes) TextureSet
+0032: 00004fc7(150 bytes) TextureSet
+0033: 0000505d(144 bytes) TextureSet
+0034: 000050ed(160 bytes) TextureSet
+0035: 0000518d(145 bytes) TextureSet
+0036: 0000521e(147 bytes) TextureSet
+0037: 000052b1(152 bytes) TextureSet
+0038: 00005349(105 bytes) ImagePlane
+0039: 000053b2(105 bytes) ImagePlane
+0040: 0000541b(30 bytes) TileData
+0041: 00005439(601 bytes) XTransformation
+0042: 00005692(134 bytes) TextureChannel
+0043: 00005718(137 bytes) TextureChannel
+0044: 000057a1(124 bytes) TextureChannel
+0045: 0000581d(148 bytes) TextureChannel
+0046: 000058b1(130 bytes) TextureChannel
+0047: 00005933(178 bytes) TextureChannel
+0048: 000059e5(133 bytes) TextureChannel
+0049: 00005a6a(139 bytes) TextureChannel
+0050: 00005af5(154 bytes) TextureChannel
+0051: 00005b8f(340 bytes) Skeleton
+0052: 00005ce3(600 bytes) XTransformation
+0053: 00005f3b(207 bytes) TextureSet
+0054: 0000600a(265 bytes) TextureSet
+0055: 00006113(209 bytes) TextureSet
+0056: 000061e4(284 bytes) TextureSet
+0057: 00006300(171 bytes) TextureSet
+0058: 000063ab(179 bytes) TextureSet
+0059: 0000645e(173 bytes) TextureSet
+0060: 0000650b(189 bytes) TextureSet
+0061: 000065c8(174 bytes) TextureSet
+0062: 00006676(176 bytes) TextureSet
+0063: 00006726(181 bytes) TextureSet
+0064: 000067db(269 bytes) Bone
+0065: 000068e8(270 bytes) Bone
+0066: 000069f6(271 bytes) Bone
+0067: 00006b05(279 bytes) Bone
+0068: 00006c1c(281 bytes) Bone
+0069: 00006d35(282 bytes) Bone
+0070: 00006e4f(277 bytes) Bone
+0071: 00006f64(278 bytes) Bone
+0072: 0000707a(277 bytes) Bone
+0073: 0000718f(103 bytes) XGeometry
+0074: 000071f6(103 bytes) XGeometry
+0075: 0000725d(11 KiB) XSubdivisionLevel
+0076: 0000a221(600 bytes) XTransformation
+0077: 0000a479(11 KiB) XSubdivisionLevel
+0078: 0000d43d(5 KiB) MeshBoneData
+0079: 0000e8eb(306 bytes) SkeletonReference
+0080: 0000ea1d(152 bytes) ExportAllPaintLayersNode
+0081: 0000eab5(5 KiB) MeshBoneData
+0082: 0000ff63(306 bytes) SkeletonReference
+0083: 00010095(47 bytes) MudboxMeshGrid
+0084: 000100c4(156 bytes) ExportAllPaintLayersNode
+0085: 00010160(47 bytes) MudboxMeshGrid
+0086: 0001018f(56 bytes) HWRenderer
+0087: 000101c7(56 bytes) HWRenderer
+0088: 000101ff(44 bytes) FreezeInterpolator
+0089: 0001022b(44 bytes) FreezeInterpolator
+0090: 00010257(44 bytes) TCInterpolator
+0091: 00010283(44 bytes) TCInterpolator
+0092: 000102af(44 bytes) BoneDataInterpolator
+0093: 000102db(44 bytes) BoneDataInterpolator
+Autodesk Mudbox 2020, 64 bit
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+Command: exportPaintLayer "D:/Maya2/Character/sourceimages/SpecularEyeMap_PNG.png" "8,i"saving image: D:/Maya2/Character/sourceimages/SpecularEyeMap_PNG.png
+Select layer
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+Command: exportPaintLayer "D:/Maya2/Character/sourceimages/DiffuseEyeMap_PNG.png" "8,i"saving image: D:/Maya2/Character/sourceimages/DiffuseEyeMap_PNG.png
+Undo
+Undoing TexturePaintBrush
+Undo
+Undoing TexturePaintBrush
+Undo
+Undoing TexturePaintBrush
+Undo
+Undoing TexturePaintBrush
+Undo
+Undoing TexturePaintBrush
+Undo
+Undoing TexturePaintBrush
+Undo
+Undoing TexturePaintBrush
+Undo
+Undoing TexturePaintBrush
+Select layer
+saving image: D:/Maya2/Character/scenes/Eyes_Mudbox-files/lambert2_Eyes.exr
+saving image: D:/Maya2/Character/scenes/Eyes_Mudbox-files/lambert2_Eyes_Specular.exr
+Saving to file D:/Maya2/Character/scenes/Eyes_Mudbox.mud, version 506
+File contents:
+0000: 0000237b(1 KiB) XScene
+0001: 0000295a(600 bytes) XTransformation
+0002: 00002bb2(402 bytes) XCamera
+0003: 00002d44(198 bytes) DirectionalLight
+0004: 00002e0a(600 bytes) XTransformation
+0005: 00003062(95 bytes) Stencil
+0006: 000030c1(600 bytes) XTransformation
+0007: 00003319(394 bytes) XCamera
+0008: 000034a3(600 bytes) XTransformation
+0009: 000036fb(105 bytes) ImagePlane
+0010: 00003764(600 bytes) XTransformation
+0011: 000039bc(1 KiB) MBStandardMaterial
+0012: 00003e7e(95 bytes) Stencil
+0013: 00003edd(395 bytes) XCamera
+0014: 00004068(396 bytes) XCamera
+0015: 000041f4(30 bytes) ReplayHandler::ConcreteHandler
+0016: 00004212(130 bytes) TextureChannel
+0017: 00004294(133 bytes) TextureChannel
+0018: 00004319(124 bytes) TextureChannel
+0019: 00004395(148 bytes) TextureChannel
+0020: 00004429(130 bytes) TextureChannel
+0021: 000044ab(178 bytes) TextureChannel
+0022: 0000455d(133 bytes) TextureChannel
+0023: 000045e2(139 bytes) TextureChannel
+0024: 0000466d(154 bytes) TextureChannel
+0025: 00004707(105 bytes) ImagePlane
+0026: 00004770(95 bytes) Stencil
+0027: 000047cf(95 bytes) Stencil
+0028: 0000482e(1 KiB) MBStandardMaterial
+0029: 00004d23(144 bytes) TextureSet
+0030: 00004db3(145 bytes) TextureSet
+0031: 00004e44(142 bytes) TextureSet
+0032: 00004ed2(150 bytes) TextureSet
+0033: 00004f68(144 bytes) TextureSet
+0034: 00004ff8(160 bytes) TextureSet
+0035: 00005098(145 bytes) TextureSet
+0036: 00005129(147 bytes) TextureSet
+0037: 000051bc(152 bytes) TextureSet
+0038: 00005254(105 bytes) ImagePlane
+0039: 000052bd(105 bytes) ImagePlane
+0040: 00005326(30 bytes) TileData
+0041: 00005344(601 bytes) XTransformation
+0042: 0000559d(134 bytes) TextureChannel
+0043: 00005623(137 bytes) TextureChannel
+0044: 000056ac(124 bytes) TextureChannel
+0045: 00005728(148 bytes) TextureChannel
+0046: 000057bc(130 bytes) TextureChannel
+0047: 0000583e(178 bytes) TextureChannel
+0048: 000058f0(133 bytes) TextureChannel
+0049: 00005975(139 bytes) TextureChannel
+0050: 00005a00(154 bytes) TextureChannel
+0051: 00005a9a(340 bytes) Skeleton
+0052: 00005bee(600 bytes) XTransformation
+0053: 00005e46(207 bytes) TextureSet
+0054: 00005f15(265 bytes) TextureSet
+0055: 0000601e(209 bytes) TextureSet
+0056: 000060ef(284 bytes) TextureSet
+0057: 0000620b(171 bytes) TextureSet
+0058: 000062b6(179 bytes) TextureSet
+0059: 00006369(173 bytes) TextureSet
+0060: 00006416(189 bytes) TextureSet
+0061: 000064d3(174 bytes) TextureSet
+0062: 00006581(176 bytes) TextureSet
+0063: 00006631(181 bytes) TextureSet
+0064: 000066e6(269 bytes) Bone
+0065: 000067f3(270 bytes) Bone
+0066: 00006901(271 bytes) Bone
+0067: 00006a10(279 bytes) Bone
+0068: 00006b27(281 bytes) Bone
+0069: 00006c40(282 bytes) Bone
+0070: 00006d5a(277 bytes) Bone
+0071: 00006e6f(278 bytes) Bone
+0072: 00006f85(277 bytes) Bone
+0073: 0000709a(103 bytes) XGeometry
+0074: 00007101(103 bytes) XGeometry
+0075: 00007168(11 KiB) XSubdivisionLevel
+0076: 0000a12c(600 bytes) XTransformation
+0077: 0000a384(11 KiB) XSubdivisionLevel
+0078: 0000d348(5 KiB) MeshBoneData
+0079: 0000e7f6(306 bytes) SkeletonReference
+0080: 0000e928(152 bytes) ExportAllPaintLayersNode
+0081: 0000e9c0(5 KiB) MeshBoneData
+0082: 0000fe6e(306 bytes) SkeletonReference
+0083: 0000ffa0(47 bytes) MudboxMeshGrid
+0084: 0000ffcf(156 bytes) ExportAllPaintLayersNode
+0085: 0001006b(47 bytes) MudboxMeshGrid
+0086: 0001009a(56 bytes) HWRenderer
+0087: 000100d2(56 bytes) HWRenderer
+0088: 0001010a(44 bytes) FreezeInterpolator
+0089: 00010136(44 bytes) FreezeInterpolator
+0090: 00010162(44 bytes) TCInterpolator
+0091: 0001018e(44 bytes) TCInterpolator
+0092: 000101ba(44 bytes) BoneDataInterpolator
+0093: 000101e6(44 bytes) BoneDataInterpolator
+Autodesk Mudbox 2020, 64 bit
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+Command: exportPaintLayer "D:/Maya2/Character/sourceimages/SpecularEyeMap_PNG.png" "8,i"saving image: D:/Maya2/Character/sourceimages/SpecularEyeMap_PNG.png
+Select layer
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+Command: exportPaintLayer "D:/Maya2/Character/sourceimages/DiffuseEyeMap_PNG.png" "8,i"saving image: D:/Maya2/Character/sourceimages/DiffuseEyeMap_PNG.png
+Saving to file D:/Maya2/Character/scenes/Eyes_Mudbox.mud, version 506
+File contents:
+0000: 0000237b(1 KiB) XScene
+0001: 0000295a(600 bytes) XTransformation
+0002: 00002bb2(402 bytes) XCamera
+0003: 00002d44(198 bytes) DirectionalLight
+0004: 00002e0a(600 bytes) XTransformation
+0005: 00003062(95 bytes) Stencil
+0006: 000030c1(600 bytes) XTransformation
+0007: 00003319(394 bytes) XCamera
+0008: 000034a3(600 bytes) XTransformation
+0009: 000036fb(105 bytes) ImagePlane
+0010: 00003764(600 bytes) XTransformation
+0011: 000039bc(1 KiB) MBStandardMaterial
+0012: 00003e7e(95 bytes) Stencil
+0013: 00003edd(395 bytes) XCamera
+0014: 00004068(396 bytes) XCamera
+0015: 000041f4(30 bytes) ReplayHandler::ConcreteHandler
+0016: 00004212(130 bytes) TextureChannel
+0017: 00004294(133 bytes) TextureChannel
+0018: 00004319(124 bytes) TextureChannel
+0019: 00004395(148 bytes) TextureChannel
+0020: 00004429(130 bytes) TextureChannel
+0021: 000044ab(178 bytes) TextureChannel
+0022: 0000455d(133 bytes) TextureChannel
+0023: 000045e2(139 bytes) TextureChannel
+0024: 0000466d(154 bytes) TextureChannel
+0025: 00004707(105 bytes) ImagePlane
+0026: 00004770(95 bytes) Stencil
+0027: 000047cf(95 bytes) Stencil
+0028: 0000482e(1 KiB) MBStandardMaterial
+0029: 00004d23(144 bytes) TextureSet
+0030: 00004db3(145 bytes) TextureSet
+0031: 00004e44(142 bytes) TextureSet
+0032: 00004ed2(150 bytes) TextureSet
+0033: 00004f68(144 bytes) TextureSet
+0034: 00004ff8(160 bytes) TextureSet
+0035: 00005098(145 bytes) TextureSet
+0036: 00005129(147 bytes) TextureSet
+0037: 000051bc(152 bytes) TextureSet
+0038: 00005254(105 bytes) ImagePlane
+0039: 000052bd(105 bytes) ImagePlane
+0040: 00005326(30 bytes) TileData
+0041: 00005344(601 bytes) XTransformation
+0042: 0000559d(134 bytes) TextureChannel
+0043: 00005623(137 bytes) TextureChannel
+0044: 000056ac(124 bytes) TextureChannel
+0045: 00005728(148 bytes) TextureChannel
+0046: 000057bc(130 bytes) TextureChannel
+0047: 0000583e(178 bytes) TextureChannel
+0048: 000058f0(133 bytes) TextureChannel
+0049: 00005975(139 bytes) TextureChannel
+0050: 00005a00(154 bytes) TextureChannel
+0051: 00005a9a(340 bytes) Skeleton
+0052: 00005bee(600 bytes) XTransformation
+0053: 00005e46(207 bytes) TextureSet
+0054: 00005f15(265 bytes) TextureSet
+0055: 0000601e(209 bytes) TextureSet
+0056: 000060ef(284 bytes) TextureSet
+0057: 0000620b(171 bytes) TextureSet
+0058: 000062b6(179 bytes) TextureSet
+0059: 00006369(173 bytes) TextureSet
+0060: 00006416(189 bytes) TextureSet
+0061: 000064d3(174 bytes) TextureSet
+0062: 00006581(176 bytes) TextureSet
+0063: 00006631(181 bytes) TextureSet
+0064: 000066e6(269 bytes) Bone
+0065: 000067f3(270 bytes) Bone
+0066: 00006901(271 bytes) Bone
+0067: 00006a10(279 bytes) Bone
+0068: 00006b27(281 bytes) Bone
+0069: 00006c40(282 bytes) Bone
+0070: 00006d5a(277 bytes) Bone
+0071: 00006e6f(278 bytes) Bone
+0072: 00006f85(277 bytes) Bone
+0073: 0000709a(103 bytes) XGeometry
+0074: 00007101(103 bytes) XGeometry
+0075: 00007168(11 KiB) XSubdivisionLevel
+0076: 0000a12c(600 bytes) XTransformation
+0077: 0000a384(11 KiB) XSubdivisionLevel
+0078: 0000d348(5 KiB) MeshBoneData
+0079: 0000e7f6(306 bytes) SkeletonReference
+0080: 0000e928(152 bytes) ExportAllPaintLayersNode
+0081: 0000e9c0(5 KiB) MeshBoneData
+0082: 0000fe6e(306 bytes) SkeletonReference
+0083: 0000ffa0(47 bytes) MudboxMeshGrid
+0084: 0000ffcf(156 bytes) ExportAllPaintLayersNode
+0085: 0001006b(47 bytes) MudboxMeshGrid
+0086: 0001009a(56 bytes) HWRenderer
+0087: 000100d2(56 bytes) HWRenderer
+0088: 0001010a(44 bytes) FreezeInterpolator
+0089: 00010136(44 bytes) FreezeInterpolator
+0090: 00010162(44 bytes) TCInterpolator
+0091: 0001018e(44 bytes) TCInterpolator
+0092: 000101ba(44 bytes) BoneDataInterpolator
+0093: 000101e6(44 bytes) BoneDataInterpolator
+Autodesk Mudbox 2020, 64 bit
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+Command: exportPaintLayer "D:/Maya2/Character/sourceimages/DiffuseEyeMap_PNG.png" "8,i"saving image: D:/Maya2/Character/sourceimages/DiffuseEyeMap_PNG.png
+saving image: D:/Maya2/Character/scenes/Eyes_Mudbox-files/lambert2_Eyes.exr
+Saving to file D:/Maya2/Character/scenes/Eyes_Mudbox.mud, version 506
+File contents:
+0000: 0000237b(1 KiB) XScene
+0001: 00002971(600 bytes) XTransformation
+0002: 00002bc9(402 bytes) XCamera
+0003: 00002d5b(198 bytes) DirectionalLight
+0004: 00002e21(600 bytes) XTransformation
+0005: 00003079(95 bytes) Stencil
+0006: 000030d8(600 bytes) XTransformation
+0007: 00003330(394 bytes) XCamera
+0008: 000034ba(600 bytes) XTransformation
+0009: 00003712(105 bytes) ImagePlane
+0010: 0000377b(600 bytes) XTransformation
+0011: 000039d3(1 KiB) MBStandardMaterial
+0012: 00003e95(95 bytes) Stencil
+0013: 00003ef4(395 bytes) XCamera
+0014: 0000407f(396 bytes) XCamera
+0015: 0000420b(30 bytes) ReplayHandler::ConcreteHandler
+0016: 00004229(130 bytes) TextureChannel
+0017: 000042ab(133 bytes) TextureChannel
+0018: 00004330(124 bytes) TextureChannel
+0019: 000043ac(148 bytes) TextureChannel
+0020: 00004440(130 bytes) TextureChannel
+0021: 000044c2(178 bytes) TextureChannel
+0022: 00004574(133 bytes) TextureChannel
+0023: 000045f9(139 bytes) TextureChannel
+0024: 00004684(154 bytes) TextureChannel
+0025: 0000471e(105 bytes) ImagePlane
+0026: 00004787(95 bytes) Stencil
+0027: 000047e6(95 bytes) Stencil
+0028: 00004845(1 KiB) MBStandardMaterial
+0029: 00004d3a(144 bytes) TextureSet
+0030: 00004dca(145 bytes) TextureSet
+0031: 00004e5b(142 bytes) TextureSet
+0032: 00004ee9(150 bytes) TextureSet
+0033: 00004f7f(144 bytes) TextureSet
+0034: 0000500f(160 bytes) TextureSet
+0035: 000050af(145 bytes) TextureSet
+0036: 00005140(147 bytes) TextureSet
+0037: 000051d3(152 bytes) TextureSet
+0038: 0000526b(105 bytes) ImagePlane
+0039: 000052d4(105 bytes) ImagePlane
+0040: 0000533d(30 bytes) TileData
+0041: 0000535b(601 bytes) XTransformation
+0042: 000055b4(134 bytes) TextureChannel
+0043: 0000563a(137 bytes) TextureChannel
+0044: 000056c3(124 bytes) TextureChannel
+0045: 0000573f(148 bytes) TextureChannel
+0046: 000057d3(130 bytes) TextureChannel
+0047: 00005855(178 bytes) TextureChannel
+0048: 00005907(133 bytes) TextureChannel
+0049: 0000598c(139 bytes) TextureChannel
+0050: 00005a17(154 bytes) TextureChannel
+0051: 00005ab1(340 bytes) Skeleton
+0052: 00005c05(600 bytes) XTransformation
+0053: 00005e5d(207 bytes) TextureSet
+0054: 00005f2c(265 bytes) TextureSet
+0055: 00006035(209 bytes) TextureSet
+0056: 00006106(284 bytes) TextureSet
+0057: 00006222(171 bytes) TextureSet
+0058: 000062cd(179 bytes) TextureSet
+0059: 00006380(173 bytes) TextureSet
+0060: 0000642d(189 bytes) TextureSet
+0061: 000064ea(174 bytes) TextureSet
+0062: 00006598(176 bytes) TextureSet
+0063: 00006648(181 bytes) TextureSet
+0064: 000066fd(269 bytes) Bone
+0065: 0000680a(270 bytes) Bone
+0066: 00006918(271 bytes) Bone
+0067: 00006a27(279 bytes) Bone
+0068: 00006b3e(281 bytes) Bone
+0069: 00006c57(282 bytes) Bone
+0070: 00006d71(277 bytes) Bone
+0071: 00006e86(278 bytes) Bone
+0072: 00006f9c(277 bytes) Bone
+0073: 000070b1(103 bytes) XGeometry
+0074: 00007118(103 bytes) XGeometry
+0075: 0000717f(11 KiB) XSubdivisionLevel
+0076: 0000a143(600 bytes) XTransformation
+0077: 0000a39b(11 KiB) XSubdivisionLevel
+0078: 0000d35f(5 KiB) MeshBoneData
+0079: 0000e80d(306 bytes) SkeletonReference
+0080: 0000e93f(152 bytes) ExportAllPaintLayersNode
+0081: 0000e9d7(5 KiB) MeshBoneData
+0082: 0000fe85(306 bytes) SkeletonReference
+0083: 0000ffb7(47 bytes) MudboxMeshGrid
+0084: 0000ffe6(156 bytes) ExportAllPaintLayersNode
+0085: 00010082(47 bytes) MudboxMeshGrid
+0086: 000100b1(56 bytes) HWRenderer
+0087: 000100e9(56 bytes) HWRenderer
+0088: 00010121(44 bytes) FreezeInterpolator
+0089: 0001014d(44 bytes) FreezeInterpolator
+0090: 00010179(44 bytes) TCInterpolator
+0091: 000101a5(44 bytes) TCInterpolator
+0092: 000101d1(44 bytes) BoneDataInterpolator
+0093: 000101fd(44 bytes) BoneDataInterpolator
+Autodesk Mudbox 2020, 64 bit
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+Command: exportPaintLayer "D:/Maya2/Character/sourceimages/DiffuseEyeMap_PNG.png" "8,i"saving image: D:/Maya2/Character/sourceimages/DiffuseEyeMap_PNG.png
+saving image: D:/Maya2/Character/scenes/Eyes_Mudbox-files/lambert2_Eyes.exr
+Saving to file D:/Maya2/Character/scenes/Eyes_Mudbox.mud, version 506
+File contents:
+0000: 0000237b(1 KiB) XScene
+0001: 00002a22(600 bytes) XTransformation
+0002: 00002c7a(402 bytes) XCamera
+0003: 00002e0c(198 bytes) DirectionalLight
+0004: 00002ed2(600 bytes) XTransformation
+0005: 0000312a(95 bytes) Stencil
+0006: 00003189(600 bytes) XTransformation
+0007: 000033e1(394 bytes) XCamera
+0008: 0000356b(600 bytes) XTransformation
+0009: 000037c3(105 bytes) ImagePlane
+0010: 0000382c(600 bytes) XTransformation
+0011: 00003a84(1 KiB) MBStandardMaterial
+0012: 00003f46(95 bytes) Stencil
+0013: 00003fa5(395 bytes) XCamera
+0014: 00004130(396 bytes) XCamera
+0015: 000042bc(30 bytes) ReplayHandler::ConcreteHandler
+0016: 000042da(130 bytes) TextureChannel
+0017: 0000435c(133 bytes) TextureChannel
+0018: 000043e1(124 bytes) TextureChannel
+0019: 0000445d(148 bytes) TextureChannel
+0020: 000044f1(130 bytes) TextureChannel
+0021: 00004573(178 bytes) TextureChannel
+0022: 00004625(133 bytes) TextureChannel
+0023: 000046aa(139 bytes) TextureChannel
+0024: 00004735(154 bytes) TextureChannel
+0025: 000047cf(105 bytes) ImagePlane
+0026: 00004838(95 bytes) Stencil
+0027: 00004897(95 bytes) Stencil
+0028: 000048f6(1 KiB) MBStandardMaterial
+0029: 00004deb(144 bytes) TextureSet
+0030: 00004e7b(145 bytes) TextureSet
+0031: 00004f0c(142 bytes) TextureSet
+0032: 00004f9a(150 bytes) TextureSet
+0033: 00005030(144 bytes) TextureSet
+0034: 000050c0(160 bytes) TextureSet
+0035: 00005160(145 bytes) TextureSet
+0036: 000051f1(147 bytes) TextureSet
+0037: 00005284(152 bytes) TextureSet
+0038: 0000531c(105 bytes) ImagePlane
+0039: 00005385(105 bytes) ImagePlane
+0040: 000053ee(30 bytes) TileData
+0041: 0000540c(601 bytes) XTransformation
+0042: 00005665(134 bytes) TextureChannel
+0043: 000056eb(137 bytes) TextureChannel
+0044: 00005774(124 bytes) TextureChannel
+0045: 000057f0(148 bytes) TextureChannel
+0046: 00005884(130 bytes) TextureChannel
+0047: 00005906(178 bytes) TextureChannel
+0048: 000059b8(133 bytes) TextureChannel
+0049: 00005a3d(139 bytes) TextureChannel
+0050: 00005ac8(154 bytes) TextureChannel
+0051: 00005b62(340 bytes) Skeleton
+0052: 00005cb6(600 bytes) XTransformation
+0053: 00005f0e(207 bytes) TextureSet
+0054: 00005fdd(265 bytes) TextureSet
+0055: 000060e6(209 bytes) TextureSet
+0056: 000061b7(284 bytes) TextureSet
+0057: 000062d3(171 bytes) TextureSet
+0058: 0000637e(179 bytes) TextureSet
+0059: 00006431(173 bytes) TextureSet
+0060: 000064de(189 bytes) TextureSet
+0061: 0000659b(174 bytes) TextureSet
+0062: 00006649(176 bytes) TextureSet
+0063: 000066f9(181 bytes) TextureSet
+0064: 000067ae(269 bytes) Bone
+0065: 000068bb(270 bytes) Bone
+0066: 000069c9(271 bytes) Bone
+0067: 00006ad8(279 bytes) Bone
+0068: 00006bef(281 bytes) Bone
+0069: 00006d08(282 bytes) Bone
+0070: 00006e22(277 bytes) Bone
+0071: 00006f37(278 bytes) Bone
+0072: 0000704d(277 bytes) Bone
+0073: 00007162(103 bytes) XGeometry
+0074: 000071c9(103 bytes) XGeometry
+0075: 00007230(11 KiB) XSubdivisionLevel
+0076: 0000a1f4(600 bytes) XTransformation
+0077: 0000a44c(11 KiB) XSubdivisionLevel
+0078: 0000d410(5 KiB) MeshBoneData
+0079: 0000e8be(306 bytes) SkeletonReference
+0080: 0000e9f0(152 bytes) ExportAllPaintLayersNode
+0081: 0000ea88(5 KiB) MeshBoneData
+0082: 0000ff36(306 bytes) SkeletonReference
+0083: 00010068(47 bytes) MudboxMeshGrid
+0084: 00010097(156 bytes) ExportAllPaintLayersNode
+0085: 00010133(47 bytes) MudboxMeshGrid
+0086: 00010162(56 bytes) HWRenderer
+0087: 0001019a(56 bytes) HWRenderer
+0088: 000101d2(44 bytes) FreezeInterpolator
+0089: 000101fe(44 bytes) FreezeInterpolator
+0090: 0001022a(44 bytes) TCInterpolator
+0091: 00010256(44 bytes) TCInterpolator
+0092: 00010282(44 bytes) BoneDataInterpolator
+0093: 000102ae(44 bytes) BoneDataInterpolator
+Autodesk Mudbox 2020, 64 bit
+Cg error: Invalid program handle.
+Cg error: Invalid context handle.
+Total number of polygons rendered during the session: 13731120
+Shutdown, memory used: 0 Megabytes
+ Destructing mesh
+ Destructing mesh

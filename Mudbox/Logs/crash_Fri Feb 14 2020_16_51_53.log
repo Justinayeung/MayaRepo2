@@ -1,0 +1,292 @@
+Memory: 7.9 GB/16 GB, 50%%
+Qt version: 5.6.1 (compiled against: 5.6.1)
+Loading plugins from:C:/Program Files/Autodesk/Mudbox 2020/plugins/
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/AmbientOcclusionSampler.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/AutoExtract.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/BTreePicker.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/BumpToNormal.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/CalliperBrush.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/CavityViewportFilter.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/CCSurfaceSmoother.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/CgMaterial.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/CgViewPortFilter.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/ColorCorrection.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/ColorTransfer.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/CurveCutting.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/Curves.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/CurveTransfer.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/DepthMapViewportFilter.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/DetailBrush.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/DetailTransfer.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/DiffuseMaterial.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/DOFViewPortFilter.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/DuplicateCommand.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/EdgeBleeding.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/EnvironmentMapLoader.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/ErasePaintLayer.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/ExportAllPaintLayers.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/EyeDropperBrush.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/FastBrush.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/FastMoveBrush.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/FbxTranslator.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/FlipCommand.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/FreezeTransformations.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/GeneralImage.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/GeodesicEnumerator.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/HWMeshRenderer.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/HWPicker.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/IBLMaterial.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/ImageBlur.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/LitSphereMaterial.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/MapExtractor.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/MapExtractorAPI.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/Marquee.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/MaskEditor.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/MBStandardMaterial.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/MeshBeautifier.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/MeshChecker.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/MeshDisplace.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/MeshGrid.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/MeshOperations.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/MeshReduce.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/MeshTriangulation.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/MudboxScriptRunner.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/MultiBrush.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/NormalMapViewportFilter.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/NPRViewPortFilter.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/ObjectSelectionBrush.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/OneClickExport.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/PaintSelectionBrush.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/PatchHole.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/Poser.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/PtexExtractor.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/PtexImporter.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/Retopology.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/RolloverHighlightingFilter.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/SceneLogger.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/SimpleShaderMaterial.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/SketchTopology.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/SpatialGrid.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/SSAOViewportFilter.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/SSSViewPortFilter.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/Substances.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/TangentGenerator.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/Texture.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/TextureLayers.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/TexturePaintBrush.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/TileablePlane.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/TileHistogram.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/TonemappingViewPortFilter.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/TopologyInterpolator.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/TransformationTools.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/Turntable.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/UnprojectTextures.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/Unsubdivide.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/Unwrapper.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/UVlessPainting.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/VDMCreator.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/VertexExtractor.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/VertexPaintBrush.mp
+Loading plugin C:/Program Files/Autodesk/Mudbox 2020/plugins/VoxelBrush.mp
+Possible mesh renderer: HWRenderer
+Possible screen space picker: HWPicker
+Possible material: Simple Blinn Material
+Possible material: Mudbox Material
+Possible material: canvasmaterial
+Possible material: Lit Sphere Material
+Possible material: Mudbox Material (2009)
+Possible material: Mudbox Diffuse Material
+Possible material: viewcurvecanvasmaterial
+Possible material: CgFX Based Material
+Plugins in memory:
+	0: CgMaterial - Cg accelerated material, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:57:44
+	1: Map Extractor - Map Extraction between meshes, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:57:29
+	2: AOSampler - Ambient Occlusion Texture Generator, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:00:13
+	3: AutoExtract.mp - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	4: BTPicker - Balanced Tree Picker, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:51
+	5: Bump to Normal - Bump Map to Normal Map, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:21
+	6: CalliperBrush - CalliperBrush, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:00:07
+	7: Cavity - Cavity Viewport Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:23
+	8: CCSurfaceSmoother - Catmull-Clark Limit Surface Calculator, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:49
+	9: CgMaterial.mp - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	10: CgViewPortFilter - Cg based simple viewport filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:23
+	11: ColorCorrection - Color Correction, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:13
+	12: Edge Bleeding Utilities - Edge Bleeding Utilities, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:57:47
+	13: CurveCutting - cut the mesh using curves, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:00:38
+	14: CurveBuilder - Draw, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:55
+	15: MapExtractorAPI - Easy to use API for map extraction, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:57:39
+	16: Depth Map Filter - Depth Map Viewport Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:00:07
+	17: MeshTriangulation - Triangulate Meshe, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:40
+	18: MarqueeBrush - Draw, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:57:57
+	19: PaintSelectionBrush - PaintSelectionBrush, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:00:15
+	20: Poser - Rotating/scaling/moving vertices using bones, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:57:57
+	21: Mesh Detail Brush - Mesh detail brush, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:01:04
+	22: VertexExtractor - Extract values to vertex properties, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:00:28
+	23: UVlessPainting - PTEX Setup..., Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:57:50
+	24: MB Diffuse Material - Mudbox Diffuse Material, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:20
+	25: Depth of Field - Depth of Field Viewport Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:23
+	26: DuplicateCommand - Duplicate Command, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:00:36
+	27: EdgeBleeding.mp - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	28: EnvironmentMapLoader - Environment Map Loader, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:53
+	29: Erase Paint Layer - Erase the Paint Layer of Color, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:43
+	30: ExportPaintLayers - Export all paint layers, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:52
+	31: Eye Dropper Brush - Eye Dropper brush for picking color, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:02
+	32: Fast Brush - Hardware accelerated simple sculptor brush, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:01:05
+	33: FastMoveBrush - Fast version of the move tool, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:01:05
+	34: FBX Importer - FBX file import/export plugin, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:01:15
+	35: FlipCommand - Flip Command, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:00:31
+	36: FreezeTransformations - Flip Transformations, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:00:16
+	37: General Image - Basic Image Handler, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:01:41
+	38: GeodesicEnumerator.mp - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	39: HWRenderer - Hardware accelerated mesh renderer, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:00:18
+	40: HWPicker - Hardware accelerated mesh pick, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:45
+	41: IBL Material - Image Based Lighting, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:17
+ImageBlur: Plugin initialized
+	42: Image Blur - Blur Image Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:07
+	43: Lit Sphere Material - Lit Sphere NPR, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:25
+	44: MapExtractor.mp - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	45: MapExtractorAPI.mp - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	46: Marquee.mp - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	47: MaskEditor - Stencil/Stamp/Image plane editing functions, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:00:08
+	48: MB Standard Material - Mudbox Material, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:19
+	49: MeshBeautifier - beautify the mesh, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:01:02
+	50: Mesh Checker - Mech checker on import, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:58:53
+	51: MeshDisplacer - Displacement operation for meshes, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:01:47
+	52: MeshGrid - Preprocessed Face Count Reduction, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:42
+	53: MeshOperations - Mesh Operations, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:00:39
+	54: MeshReduce - Mesh Reduction, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:00:27
+	55: MeshTriangulation.mp - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	56: MudboxScriptRunner - The GUI plugin to run the specify Mudboxscript, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:04
+	57: MultiBrush - MultiBrush Tool, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:41
+	58: Normal Map Filter - Normal Map Viewport Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:54
+	59: Non Photorealistic Rendering - NPR Viewport Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:24
+	60: ObjectSelectionBrush - ObjectSelectionBrush, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:58:50
+	61: NewOneClick - One Click Interop with Maya / 3ds Max ., Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:32
+	62: PaintSelectionBrush.mp - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	63: PatchHole - Patch a Hole in a Mesh, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:00:57
+	64: Poser.mp - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	65: PtexExtractor.mp - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	66: PtexImporter.mp - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	67: Retopology - Create new topology for existing meshes, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:00:51
+	68: Rollover Highlighting Filter - Rollover Viewport Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:03
+	69: SceneLogger - Used for Interop, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:03
+	70: Basic Material - Simple Material, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:25
+	71: SketchTopology - Sketch Topology, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:00:18
+	72: MudboxSpatialGrid - Spatial Grid, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:42
+	73: Screen Space Ambient Occlusion - Screen Space Ambient Occlusion Viewport Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:53
+	74: Skin Effect Viewport Filter - Skin Effect Viewport Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:23
+	75: Substances - Supporting Substances as stams and stencils, Author: Allegorithmic, URL: http://www.allegorithmic.com, Build time: Nov 12 2019 10:59:52
+	76: TangentGenerator - Vertex Tangent and Binormal Generator, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:38
+	77: Texture - Default Texture Class Implementation, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:58:59
+	78: TileHistogram - TIB generator and Tile Histogram generator, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:58:51
+	79: TextureLayers - Layer Structure for TexturesCg accelerated material, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:11
+	80: Texture Paint Brush - Hardware accelerated texture paint brush, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:58:50
+	81: TilingPlane - Tiling plane for sculpting and painting, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:46
+	82: TileHistogram.mp - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	83: Tonemapper - Tonemapping Viewport Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:22
+	84: Map Extractor - InterCustom settings on Map Extaction, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:01:47
+	85: Transformation Tools - Transformation Tools, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:58:50
+	86: Turntable - Create a turntable animation, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:36
+UnprojectTextures: Plugin initialized
+	87: UnprojectTextures - Screen Space Texture Unprojection and Extraction, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:58:53
+	88: Unsubdivide - Rebuild subdivision levels, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:05
+	89: Unwrapper - Converter between UV and world space, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:42
+	90: UVlessPainting.mp - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	91: VDMCreator - Strong smooth operation on meshes, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:52
+	92: VertexExtractor.mp - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	93: Vertex Paint Brush - Vertex property paint brush, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 11:00:15
+	94: Voxel Brush - Voxel Based Sketching Tool, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Nov 12 2019 10:59:01
+SysInfo: Unable to open NVIDIA device key - The system cannot find the file specified.
+
+SysInfo: GL MemInfo (NVidia) reports 4194304 kbytes of GPU memory
+file ext string = *.png *.jpg *.gif *.bmp *.tif *.psd *.tga *.exr
+Using shader compile flags -DVERTEX_PROFILE=gp4vp -DFRAGMENT_PROFILE=gp4fp -DCG_PROFILE_GP4VP=1 -DCG_PROFILE_GP4FP=1
+Additional flags:
+Effect file Effects/MBStandardMaterial/MBStandardMaterial.bin loaded and compiled:
+Technique MBMaterial passed validation in effect Effects/MBStandardMaterial/MBStandardMaterial.binLoading program from file: Shaders/NPR/Blur.bin
+Loading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1
+Adding compile option : -DCG_PROFILE_GLSLF=1
+Cg Error compiling program. 
+Loading program from file: Shaders/NPR/EdgePostProcess.bin
+Loading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1
+Adding compile option : -DCG_PROFILE_GLSLF=1
+Loading program from file: Shaders/NPR/NPRPostProcess.bin
+Loading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1
+Adding compile option : -DCG_PROFILE_GLSLF=1
+Loading program from file: Shaders/NormalMapViewportFilter/NormalMapViewportFilter.bin
+Loading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1
+Adding compile option : -DCG_PROFILE_GLSLF=1
+Loading program from file: Shaders/DepthMapViewportFilter/DepthMapViewportFilter.bin
+Loading program source for the profile gp5fp, compiled with -DCG_PROFILE_GP5FP=1
+Adding compile option : -DCG_PROFILE_GP5FP=1
+Loading program from file: Shaders/SSAO/screen_space_AO.bin
+Loading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1
+Adding compile option : -DCG_PROFILE_GLSLF=1
+Loading program from file: Shaders/SSAO/screen_space_AO.bin
+Loading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1
+Adding compile option : -DCG_PROFILE_GLSLF=1
+Loading program from file: Shaders/SSAO/screen_space_AO.bin
+Loading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1
+Adding compile option : -DCG_PROFILE_GLSLF=1
+Loading program from file: Shaders/SSAO/screen_space_AO.bin
+Loading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1
+Adding compile option : -DCG_PROFILE_GLSLF=1
+Loading program from file: Shaders/Cavity/AO.bin
+Loading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1
+Adding compile option : -DCG_PROFILE_GLSLF=1
+Loading program from file: Shaders/DOF/DOF.bin
+Loading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1
+Adding compile option : -DCG_PROFILE_GLSLF=1
+Loading program from file: Shaders/DOF/Blur.bin
+Loading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1
+Adding compile option : -DCG_PROFILE_GLSLF=1
+Loading program from file: Shaders/Tonemapping/RGBToLuminance.bin
+Loading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1
+Adding compile option : -DCG_PROFILE_GLSLF=1
+Loading program from file: Shaders/Tonemapping/MinMax.bin
+Loading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1
+Adding compile option : -DCG_PROFILE_GLSLF=1
+Loading program from file: Shaders/Tonemapping/Downscale.bin
+Loading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1
+Adding compile option : -DCG_PROFILE_GLSLF=1
+Loading program from file: Shaders/Tonemapping/Gamma.bin
+Loading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1
+Adding compile option : -DCG_PROFILE_GLSLF=1
+Sculpt[Sculpt] brush selected
+Stamp set to OFF
+Brush initialized
+Creating IPM
+ Loading preferences
+Autodesk Mudbox 2020, 64 bit
+Loading program from file: Shaders/Curves/CurvesFragment.bin
+Loading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1
+Adding compile option : -DCG_PROFILE_GLSLF=1
+Loading program from file: Shaders/Curves/CurvesVertex.bin
+Loading program source for the profile glslv, compiled with -DCG_PROFILE_GLSLV=1
+Adding compile option : -DCG_PROFILE_GLSLV=1
+Loading program from file: Shaders/Curves/CurvesFragment.bin
+Loading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1
+Adding compile option : -DCG_PROFILE_GLSLF=1
+Loading program from file: Shaders/Curves/CurvesVertex.bin
+Loading program source for the profile glslv, compiled with -DCG_PROFILE_GLSLV=1
+Adding compile option : -DCG_PROFILE_GLSLV=1
+Loading program from file: Shaders/TileIDVertex.bin
+Loading program source for the profile glslv, compiled with -DCG_PROFILE_GLSLV=1
+Adding compile option : -DCG_PROFILE_GLSLV=1
+Loading program from file: Shaders/TileIDFragment.bin
+Loading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1
+Adding compile option : -DCG_PROFILE_GLSLF=1
+C:/Program Files/Autodesk/Mudbox 2020/Meshes/Basic Head.mud: Current stream version is 506, file is 402
+C:/Program Files/Autodesk/Mudbox 2020/Meshes/Bull.mud: Current stream version is 506, file is 402
+C:/Program Files/Autodesk/Mudbox 2020/Meshes/Car.mud: Current stream version is 506, file is 505
+C:/Program Files/Autodesk/Mudbox 2020/Meshes/Cube.mud: Current stream version is 506, file is 402
+C:/Program Files/Autodesk/Mudbox 2020/Meshes/Human Body.mud: Current stream version is 506, file is 505
+C:/Program Files/Autodesk/Mudbox 2020/Meshes/Plane.mud: Current stream version is 506, file is 403
+C:/Program Files/Autodesk/Mudbox 2020/Meshes/Reptile.mud: Current stream version is 506, file is 402
+C:/Program Files/Autodesk/Mudbox 2020/Meshes/Sphere.mud: Current stream version is 506, file is 402
+C:/Program Files/Autodesk/Mudbox 2020/Meshes/T Rex.mud: Current stream version is 506, file is 403
+C:/Program Files/Autodesk/Mudbox 2020/Meshes/Tree Stump.mud: Current stream version is 506, file is 402
+Cg error: Invalid program handle.
+Cg error: Invalid context handle.
+Total number of polygons rendered during the session: 0
+Shutdown, memory used: 0 Megabytes

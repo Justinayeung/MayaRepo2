@@ -1,0 +1,54 @@
+Stamp;OFF;Icons/off.png;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/bw_acidMetal.tif;D:/Mudbox/Stamp thumbnails\bw_acidMetal.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/bw_brickTile.tif;D:/Mudbox/Stamp thumbnails\bw_brickTile.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/bw_bristol1.tif;D:/Mudbox/Stamp thumbnails\bw_bristol1.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/bw_bristol2.tif;D:/Mudbox/Stamp thumbnails\bw_bristol2.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/bw_brushedNoise.tif;D:/Mudbox/Stamp thumbnails\bw_brushedNoise.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/bw_cliffFace.tif;D:/Mudbox/Stamp thumbnails\bw_cliffFace.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/bw_coralTiled.tif;D:/Mudbox/Stamp thumbnails\bw_coralTiled.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/bw_dirt1.tif;D:/Mudbox/Stamp thumbnails\bw_dirt1.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/bw_dirt2.tif;D:/Mudbox/Stamp thumbnails\bw_dirt2.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/bw_dots.tif;D:/Mudbox/Stamp thumbnails\bw_dots.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/bw_fiber.tif;D:/Mudbox/Stamp thumbnails\bw_fiber.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/bw_leafVein.tif;D:/Mudbox/Stamp thumbnails\bw_leafVein.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/bw_leafVeinVar2.tif;D:/Mudbox/Stamp thumbnails\bw_leafVeinVar2.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/bw_rake4.tif;D:/Mudbox/Stamp thumbnails\bw_rake4.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/bw_rubble.tif;D:/Mudbox/Stamp thumbnails\bw_rubble.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/bw_scale.tif;D:/Mudbox/Stamp thumbnails\bw_scale.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/bw_spots.tif;D:/Mudbox/Stamp thumbnails\bw_spots.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/bw_square.tif;D:/Mudbox/Stamp thumbnails\bw_square.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/bw_stoneBlocks.tif;D:/Mudbox/Stamp thumbnails\bw_stoneBlocks.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/bw_strip.tif;D:/Mudbox/Stamp thumbnails\bw_strip.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/knife.tif;D:/Mudbox/Stamp thumbnails\knife.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/rgb_bark.tif;D:/Mudbox/Stamp thumbnails\rgb_bark.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/rgb_blueCoral.tif;D:/Mudbox/Stamp thumbnails\rgb_blueCoral.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/rgb_brainCoral.tif;D:/Mudbox/Stamp thumbnails\rgb_brainCoral.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/rgb_brownLeaf.tif;D:/Mudbox/Stamp thumbnails\rgb_brownLeaf.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/rgb_cliff.tif;D:/Mudbox/Stamp thumbnails\rgb_cliff.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/rgb_cliffVar2.tif;D:/Mudbox/Stamp thumbnails\rgb_cliffVar2.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/rgb_colorNoise.tif;D:/Mudbox/Stamp thumbnails\rgb_colorNoise.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/rgb_crackedFun1.tif;D:/Mudbox/Stamp thumbnails\rgb_crackedFun1.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/rgb_dryLeafs.tif;D:/Mudbox/Stamp thumbnails\rgb_dryLeafs.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/rgb_fleshyRed2.tif;D:/Mudbox/Stamp thumbnails\rgb_fleshyRed2.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/rgb_grass.tif;D:/Mudbox/Stamp thumbnails\rgb_grass.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/rgb_gravel.tif;D:/Mudbox/Stamp thumbnails\rgb_gravel.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/rgb_gravelMed.TIF;D:/Mudbox/Stamp thumbnails\rgb_gravelMed.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/rgb_heavyConcrete1.tif;D:/Mudbox/Stamp thumbnails\rgb_heavyConcrete1.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/rgb_leafs.tif;D:/Mudbox/Stamp thumbnails\rgb_leafs.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/rgb_moss.tif;D:/Mudbox/Stamp thumbnails\rgb_moss.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/rgb_mossBranches.tif;D:/Mudbox/Stamp thumbnails\rgb_mossBranches.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/rgb_mudCracks.tif;D:/Mudbox/Stamp thumbnails\rgb_mudCracks.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/rgb_pebbles.tif;D:/Mudbox/Stamp thumbnails\rgb_pebbles.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/rgb_pebblesVar2.tif;D:/Mudbox/Stamp thumbnails\rgb_pebblesVar2.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/rgb_rustColor1.tif;D:/Mudbox/Stamp thumbnails\rgb_rustColor1.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/rgb_rustColor2.tif;D:/Mudbox/Stamp thumbnails\rgb_rustColor2.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/rgb_stoneCarving.tif;D:/Mudbox/Stamp thumbnails\rgb_stoneCarving.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/rgb_stones.tif;D:/Mudbox/Stamp thumbnails\rgb_stones.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/rgb_woodChips.tif;D:/Mudbox/Stamp thumbnails\rgb_woodChips.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/rgb_yellowChip.tif;D:/Mudbox/Stamp thumbnails\rgb_yellowChip.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/rubble.tif;D:/Mudbox/Stamp thumbnails\rubble.jpg;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/v_directionalPinch_vdm.tif;C:/Program Files/Autodesk/Mudbox 2020/Stamps/v_directionalPinch_vdm.tif;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/v_edge_vdm.tif;C:/Program Files/Autodesk/Mudbox 2020/Stamps/v_edge_vdm.tif;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/v_fold_vdm.tif;C:/Program Files/Autodesk/Mudbox 2020/Stamps/v_fold_vdm.tif;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/v_tube_vdm.tif;C:/Program Files/Autodesk/Mudbox 2020/Stamps/v_tube_vdm.tif;;;0;0
+Stamp;C:/Program Files/Autodesk/Mudbox 2020/Stamps/v_wrinkle_vdm.tif;C:/Program Files/Autodesk/Mudbox 2020/Stamps/v_wrinkle_vdm.tif;;;0;0
